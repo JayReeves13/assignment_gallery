@@ -37,5 +37,11 @@ fieldset   {
 }
 input {
     /*float:right;*/
+    display
 }
-
+audio, video   {
+    box-shadow:rgb(51, 51, 51) 8px 8px 10px;
+    display:block;
+    margin: 10px auto;
+    width:55%
+}
